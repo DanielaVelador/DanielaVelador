@@ -12,5 +12,5 @@ const DanielaVelador = {
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/lauravelador/">
-<img src="https://user-images.githubusercontent.com/54413126/206784918-6e6b7760-a784-43c1-af97-3c524698a16e.png"/></a>
+<img src="https://user-images.githubusercontent.com/54413126/206784918-6e6b7760-a784-43c1-af97-3c524698a16e.png" width="40" height="40"/></a>
 
