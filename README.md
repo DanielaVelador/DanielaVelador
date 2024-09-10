@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Daniela👋🏻 </h1>
-<p align="center"> Software Engineering student who likes to learn about UX design and new technologies. </p>
+<p align="center"> Software Engineering student who likes to learn about Artificial Intelligence and new technologies. </p>
 
 ## About me
 ```javascript
