@@ -7,7 +7,7 @@ const DanielaVelador = {
   pronouns: "she" | "her",
   nationality: 'Mexican',
   birthday: 'November 19',
-  age: '21 years'
+  age: '22'
 }
 ```
 
