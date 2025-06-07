@@ -5,7 +5,7 @@
 ## 💻 About me
 ```javascript
 const DanielaVelador = {
-  role: "Software Engineer"
+  role: "Software Engineer",
   pronouns: "she" | "her",
   location: "Mexico",
   birthday: "November 19",
