@@ -1,5 +1,6 @@
-<h1 align="center"> Hi, I'm Daniela👋🏻 </h1>
-<p align="center"> Software Engineering student who likes to learn about Artificial Intelligence and new technologies. </p>
+<h1 align="center"> Hi there, I'm Daniela Velador 👩‍💻 </h1>
+
+<p align="center"> Welcome to my GitHub profile! I'm a Software Engineer from Mexico passionate about building impactful solutions through technology. I specialize in front-end and back-end development. </p>
 
 ## About me
 ```javascript
