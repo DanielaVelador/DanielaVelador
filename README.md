@@ -24,7 +24,3 @@ const DanielaVelador = {
 ![](https://github-readme-stats.vercel.app/api?username=DanielaVelador&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DanielaVelador&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaVelador&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DanielaVelador&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
